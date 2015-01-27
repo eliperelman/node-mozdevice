@@ -1,0 +1,35 @@
+{
+  "name": "mozdevice",
+  "version": "1.0.0",
+  "description": "Interactions for Mozilla devices and environments",
+  "main": "index.js",
+  "author": "Eli Perelman",
+  "license": "MIT",
+  "keywords": [
+    "firefox-os",
+    "b2g"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eliperelman/node-mozdevice.git"
+  },
+  "dependencies": {
+    "adbkit-logcat": "^1.0.3",
+    "async": "^0.9.0",
+    "debug": "^2.1.1",
+    "promise": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "maintainers": [
+    {
+      "name": "Eli Perelman",
+      "email": "eli@eliperelman.com"
+    },
+    {
+      "name": "Rob Wood",
+      "email": "rwood@mozilla.com"
+    }
+  ],
+  "directories": {}
+}

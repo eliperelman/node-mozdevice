@@ -1,1 +1,4 @@
-# node-mozdevice
+mozdevice
+=========
+
+Read the source, Luke.
