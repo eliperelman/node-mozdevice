@@ -1,6 +1,6 @@
 {
   "name": "mozdevice",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Interactions for Mozilla devices and environments",
   "main": "index.js",
   "author": "Eli Perelman",
