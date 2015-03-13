@@ -1,6 +1,6 @@
 {
   "name": "mozdevice",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Interactions for Mozilla devices and environments",
   "main": "index.js",
   "author": {
